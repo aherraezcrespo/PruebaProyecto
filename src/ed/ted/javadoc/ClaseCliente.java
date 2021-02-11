@@ -16,6 +16,8 @@ public class ClaseCliente {
 		ce.saludar();
 		ce.saludo("Ale");
 		ce.metodo(2, 3);
+		
+		System.out.println("Hola tio");
 
 	}
 
